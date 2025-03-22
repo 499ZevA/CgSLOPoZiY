@@ -5,4 +5,3 @@ samples/order/testdata/* -text
 **/testdata/**/*.yaml    linguist-generated=true
 **/testdata/**/*.replay  linguist-generated=true
 *.replay binary
-
