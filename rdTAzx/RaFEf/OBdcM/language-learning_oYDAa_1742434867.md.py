@@ -14,7 +14,6 @@ def get_shape_list(tensor, expected_rank=None, name=None):
 	"""Returns a list of the shape of tensor, preferring static dimensions.
 
 	Args:
-		tensor: A tf.Tensor object to find the shape of.
 		expected_rank: (optional) int. The expected rank of `tensor`. If this is
 			specified and the `tensor` has a different rank, and exception will be
 			thrown.
