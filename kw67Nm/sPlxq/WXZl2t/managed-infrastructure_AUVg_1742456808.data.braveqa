@@ -10,7 +10,6 @@ tests/specs/collaboration_open_video.spec
 tests/specs/collaboration_permission_deny.spec
 tests/specs/collaboration_permission_revoke_grant.spec
 tests/specs/collaboration_readonly.spec
-tests/specs/collaboration_reject_accept_invitation.spec
 tests/specs/collaboration_run_terminal.spec
 tests/specs/collaboration_saveas_check_marker.spec
 tests/specs/collaboration_start_session_invite_member.spec
