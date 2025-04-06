@@ -1,4 +1,3 @@
 .git
 bundles/
 cli/winresources/**/winres.json
-cli/winresources/**/*.syso
