@@ -1,4 +1,3 @@
-.PHONY: help clean
 .DEFAULT_GOAL := help
 
 clean:
