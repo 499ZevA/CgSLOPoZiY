@@ -223,7 +223,6 @@ aws ec2 describe-network-interfaces
 List DirectConnect (VPN) connections
 
 ```bash
-aws directconnect describe-connections
 ```
 
 #### Backdoors
