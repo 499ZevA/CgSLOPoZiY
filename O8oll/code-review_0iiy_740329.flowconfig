@@ -1,0 +1,15 @@
+[ignore]
+.*/source/.*
+.*/node_modules/.*
+
+[include]
+dangerfile.flow.js
+
+[libs]
+distribution/danger.js.flow
+
+[lints]
+
+[options]
+
+[strict]
